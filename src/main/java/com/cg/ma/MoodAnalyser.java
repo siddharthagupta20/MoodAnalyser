@@ -1,5 +1,6 @@
 package com.cg.ma;
 
+
 public class MoodAnalyser {
 	public String message;
 
